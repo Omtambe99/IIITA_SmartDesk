@@ -1,1 +1,0 @@
-export const baseUrl = `https://iiita-classroom.onrender.com`;
