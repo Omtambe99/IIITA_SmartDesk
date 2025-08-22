@@ -1,4 +1,4 @@
-# IIITA-Classroom
+# IIITA_SmartDesk
 
 The **IIITA-Classroom** is a student-teacher management portal designed to facilitate seamless interaction and management between teachers and students. The application provides tools for managing classroom activities, assignments, and communication efficiently in an academic environment.
 
