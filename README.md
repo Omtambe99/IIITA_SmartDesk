@@ -6,9 +6,6 @@
   <img src="https://img.shields.io/badge/Built%20with-Love-red?style=for-the-badge&logo=heart" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -18,63 +15,71 @@
 </p>
 
 ## Table of Contents
+- [Overview](#overview)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
-- [Installation](#installation)
+  - [Installation](#installation)
 - [Usage](#usage)
 - [Testing](#testing)
 
 ---
 
 ## Overview
-IIITA-SmartDesk is a comprehensive student-teacher management portal tailored for educational institutions. It provides a centralized platform for managing academic activities, fostering seamless classroom, assignment, and communication management within a scalable architecture.
+IIITA_SmartDesk is a comprehensive student-teacher management portal tailored for educational institutions. It integrates a modular React frontend with a secure Node.js backend, enabling seamless classroom, assignment, and communication management within a scalable architecture.
 
-## Key Features
-- 🔑 **Role-Based Access**: Secure authentication and personalized dashboards for students, TAs, and instructors.
-- 📚 **Course and Class Management**: Easy creation, updating, and enrollment in courses.
-- 📱 **Responsive UI**: A React-based frontend styled with Tailwind CSS for a sleek, adaptable user experience.
-- ☁️ **Media & File Handling**: Efficient uploads and storage via AWS S3 integration.
-- ⚙️ **Modular Architecture**: Clean separation of frontend and backend components for easy maintenance and scalability.
+### Why IIITA_SmartDesk?
+This project aims to simplify academic workflows and enhance engagement through a feature-rich platform. The core features include:
+
+- 🔑 **Role-Based Access**: Secure authentication and personalized dashboards for students, teachers, and admins.
+- 📊 **Attendance & Results**: Visual tools for tracking attendance and academic performance.
+- 💻 **Responsive UI**: A React-based frontend styled with Tailwind CSS for a sleek, adaptable user experience.
+- 📂 **Media & File Handling**: Efficient uploads and storage via AWS S3 integration.
+- 🛠️ **Modular Architecture**: Clear separation of frontend and backend components for easy maintenance and scalability.
 
 ---
 
 ## Getting Started
-This project requires the following dependencies:
 
 ### Prerequisites
-* Node.js
-* JavaScript
+This project requires the following dependencies:
+* Programming Language: JavaScript
 * Package Manager: Npm
 
-## Installation
-Build IIITA-SmartDesk from the source and install dependencies.
+### Installation
+Build IIITA_SmartDesk from the source and install dependencies:
 
 1.  Clone the repository:
     ```sh
-    git clone [https://github.com/IIITA/IIITA-SmartDesk](https://github.com/IIITA/IIITA-SmartDesk)
+    > git clone [https://github.com/Omtambe99/IIITA_SmartDesk](https://github.com/Omtambe99/IIITA_SmartDesk)
     ```
 2.  Navigate to the project directory:
     ```sh
-    cd IIITA-SmartDesk
+    > cd IIITA_SmartDesk
     ```
 3.  Install the dependencies:
+
+    Using npm:
     ```sh
-    npm install
+    > npm install
     ```
 
 ---
 
 ## Usage
 Run the project with:
+
+Using npm:
 ```sh
-npm start
+> npm start
 ```
 
 ## Testing
-IIITA-SmartDesk uses the [Jest](https://jestjs.io/) testing framework. Run the test suite with:
+iiita_smartdesk uses the **{test_framework}** test framework. Run the test suite with:
+
+Using npm:
 ```sh
-npm test
+> npm test
 ```
 
 ---
-<p align="right"><a href="#iiita_smartdesk">↩ Return</a></p>
+<p align="left"><a href="#">↩️ Return</a></p>
